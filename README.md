@@ -10,7 +10,7 @@ React, webpack, Babel, eslint.
 * * *
 
 **Clonar el proyecto:**
-`git clone https://github.com/Marto130/drawing_tool`
+`https://github.com/Marto130/searchMoviesApp`
 
 **Ejecutar:**
 ```
