@@ -2,7 +2,7 @@
 
 Buscador de peliculas que implementa la API OMDB para indexar busquedas de peliculas por Título.
 * * *
-**Teconologias**
+**Teconologias: \n**
 React, webpack, Babel, eslint.
 * * *
 
