@@ -3,7 +3,7 @@
 La app implementa una API OMDB para indexar busquedas de peliculas por **Título**.
 * * *
 
-<img src="https://github.com/Marto130/searchMoviesApp/blob/master/img/Captura%20de%20pantalla%20de%202020-10-30%2012-48-49.png" width="400" height="600"/>
+<img src="https://github.com/Marto130/searchMoviesApp/blob/master/img/Captura%20de%20pantalla%20de%202020-10-30%2012-48-49.png" width="400" height="500"/>
 
 * * *
 
