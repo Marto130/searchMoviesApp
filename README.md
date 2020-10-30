@@ -3,7 +3,7 @@
 Buscador de peliculas que implementa la API OMDB para indexar busquedas de peliculas por Título.
 * * *
 **Teconologias:**
-React, webpack, Babel, eslint.
+React, webpack, Babel, eslint. BootsWatch (theme solar)/Bootstrap
 * * *
 
 **Link:** [https://moviesapp-6158f.web.app](https://moviesapp-6158f.web.app)  
