@@ -2,6 +2,8 @@
 
 La app implementa una API OMDB para indexar busquedas de peliculas por **Título**.
 * * *
+<img src="https://github.com/Marto130/searchMoviesApp/blob/master/img/Captura%20de%20pantalla%20de%202020-10-30%2012-48-49.png" width="500" height="300"/>
+* * *
 **Teconologias:**
 React, webpack, Babel, eslint. BootsWatch (theme solar)/Bootstrap
 * * *
