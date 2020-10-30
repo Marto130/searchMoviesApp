@@ -1,6 +1,6 @@
 # searchMoviesApp
 
-La app implementa una API OMDB para indexar busquedas de peliculas por **Título.
+La app implementa una API OMDB para indexar busquedas de peliculas por **Título**.
 * * *
 **Teconologias:**
 React, webpack, Babel, eslint. BootsWatch (theme solar)/Bootstrap
