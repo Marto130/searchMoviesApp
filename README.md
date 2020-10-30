@@ -1,6 +1,5 @@
 # searchMoviesApp
 
-**Buscador de películas**
 Buscador de peliculas que implementa la API OMDB para indexar busquedas de peliculas por Título.
 * * *
 **Teconologias**
