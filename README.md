@@ -1,7 +1,7 @@
 # searchMoviesApp
 
 **Buscador de películas**
-Simple buscador que implementa la API OMDB para indexar busquedas de pelicula por Título.
+Buscador de peliculas que implementa la API OMDB para indexar busquedas de peliculas por Título.
 * * *
 **Teconologias**
 React, webpack, Babel, eslint.
@@ -16,7 +16,7 @@ React, webpack, Babel, eslint.
 **Ejecutar:**
 ```
 npm install
-npm start
+npm start (o npm run build para producción)
 ```
 
 
